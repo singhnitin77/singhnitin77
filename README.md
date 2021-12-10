@@ -4,8 +4,6 @@
 
 <h3 align="left">19 year old with a mindset of always willing to learn more.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhnitin77&label=Profile%20views&color=0e75b6&style=flat" alt="singhnitin77" /> </p>
-
 - 🔭 Hi, I’m @nitinsingh.8! Front-End Developer / Designer 👩‍💻 and Digital Illustrator 🎨
 
 - 🌱 I’m currently learning Reactjs

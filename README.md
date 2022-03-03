@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with Backend Development - Backend & APIs
 
-- 🎨 Checkout my Illustration work on [Instagram](https://www.instagram.com/nitinsingh.8/)
+- 🎨 Checkout my Illustration work on [Instagram](https://www.instagram.com/thenitinsingh7/)
 
 - 🎨 Checkout my Carousels on [Instagram](https://www.instagram.com/thedesignernitin/)
 
@@ -24,7 +24,7 @@
 
 ## Explore my web presence 🌍
 
-- [Instagram](https://www.instagram.com/nitinsingh.8/)
+- [Instagram](https://www.instagram.com/thenitinsingh7/)
 - [LinkedIn](https://www.linkedin.com/in/singhnitin16/)
 - [Twitter](https://twitter.com/singh_nitin16)
 - [Codepen](https://codepen.io/singh_nitin16/)

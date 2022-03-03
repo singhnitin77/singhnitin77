@@ -6,7 +6,7 @@
 
 - 🔭 Hi, I’m @nitinsingh.8! Front-End Developer / Designer 👩‍💻 and Digital Illustrator 🎨
 
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Nextjs
 
 - 👯 I’m looking to become a part of an incredible team and work on amazing projects in the future
 

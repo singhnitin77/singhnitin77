@@ -1,32 +1,28 @@
-<h1 align="left">Hello 👋, I'm Nitin</h1>
+<h3 align="left">Hello 👋, I'm Nitin Singh</h1>
 
-![](https://raw.githubusercontent.com/singhnitin77/singhnitin77/main/github-banner.png)
 
-<h3 align="left">19 year old with a mindset of always willing to learn more.</h3>
+Full Stack Developer, UI/UX Designer & Illustrator who has build and shipped 3+ Products for the community, created some of the top products on Product Hunt. Hunt. His works got featured in [Product Hunt](https://www.producthunt.com/@nitinsingh) , [Gumroad](https://thedesignernitin.gumroad.com/l/thedesignernitin) , [Android Study Jam by Google Devs India](https://twitter.com/GoogleDevsIN) , [Hashnode](https://hashnode.com/@nitinsingh), [Fiverr](https://www.fiverr.com/)
 
-- 🔭 Hi, I’m @nitinsingh.8! Front-End Developer / Designer 👩‍💻 and Digital Illustrator 🎨
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/thenitinsingh7.svg?style=social&label=Follow%20%40thenitinsingh7)](https://twitter.com/thenitinsingh7)
 
-- 🌱 I’m currently learning Nextjs
+##### FEATURED PRODUCTS
 
-- 👯 I’m looking to become a part of an incredible team and work on amazing projects in the future
+- [🌈 Gradientify](https://www.gradientify.com/) - The web based all-in-one Gradient editor with 100+ beautiful gradients.
+- [🎨 Designers Lobby](https://www.designerslobby.com/) - All your design resources & tools in one place. [#8 Product of The Day](https://www.producthunt.com/posts/designers-lobby).
+- [🤖 Notion Style Illustrations](https://thedesignernitin.gumroad.com/l/thedesignernitin) - 150+ Minimal Notion Style illustrations.
 
-- 🤝 I’m looking for help with Backend Development - Backend & APIs
+##### WORKING ON
 
-- 🎨 Checkout my Illustration work on [Instagram](https://www.instagram.com/thenitinsingh7/)
+- [🌈 Gradientify](https://www.gradientify.com/) - The web based all-in-one Gradient editor with 100+ beautiful gradients.
 
-- 🎨 Checkout my Carousels on [Instagram](https://www.instagram.com/thedesignernitin/)
-
-- 📫 How to reach me designernitin7@gmail.com
-
-- 😄 Pronouns : (He/Him)
-
-- ⚡ Fun fact : Read my first name from end, you will get the same result
+#
+If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:thenitinsingh77@gmail.com).
 
 ## Explore my web presence 🌍
 
 - [Instagram](https://www.instagram.com/thenitinsingh7/)
 - [LinkedIn](https://www.linkedin.com/in/singhnitin16/)
-- [Twitter](https://twitter.com/singh_nitin16)
+- [Twitter](https://twitter.com/thenitinsingh7)
 - [Codepen](https://codepen.io/singh_nitin16/)
 
 ## Languages and Tools

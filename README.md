@@ -1,7 +1,7 @@
 <h3 align="left">Hello 👋, I'm Nitin Singh</h1>
 
 
-Full Stack Developer, UI/UX Designer & Illustrator who has build and shipped 3+ Products for the community, created some of the top products on Product Hunt. Hunt. His works got featured in [Product Hunt](https://www.producthunt.com/@nitinsingh) , [Gumroad](https://thedesignernitin.gumroad.com/l/thedesignernitin) , [Android Study Jam by Google Devs India](https://twitter.com/GoogleDevsIN) , [Hashnode](https://hashnode.com/@nitinsingh), [Fiverr](https://www.fiverr.com/)
+Full Stack Developer, UI/UX Designer & Illustrator who has build and shipped 3+ Products for the community, created some of the top products on Product Hunt. Hunt. His works got featured in [Product Hunt](https://www.producthunt.com/@nitinsingh) , [Gumroad](https://thedesignernitin.gumroad.com/l/thedesignernitin) , [Android Study Jam by Google Devs India](https://twitter.com/GoogleDevsIN) , [Hashnode](https://hashnode.com/@nitinsingh)
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/thenitinsingh7.svg?style=social&label=Follow%20%40thenitinsingh7)](https://twitter.com/thenitinsingh7)
 

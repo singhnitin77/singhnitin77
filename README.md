@@ -5,18 +5,38 @@ Full Stack Developer, UI/UX Designer & Illustrator who has build and shipped 3+ 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/thenitinsingh7.svg?style=social&label=Follow%20%40thenitinsingh7)](https://twitter.com/thenitinsingh7)
 
-##### FEATURED PRODUCTS
 
-- [🌈 Gradientify](https://www.gradientify.com/) - The web based all-in-one Gradient editor with 100+ beautiful gradients.
-- [🎨 Designers Lobby](https://www.designerslobby.com/) - All your design resources & tools in one place. [#8 Product of The Day](https://www.producthunt.com/posts/designers-lobby).
-- [🤖 Notion Style Illustrations](https://thedesignernitin.gumroad.com/l/thedesignernitin) - 150+ Minimal Notion Style illustrations.
+#### FEATURED PRODUCTS:
+
+- ### [🌈 Gradientify](https://www.gradientify.com/) 
+  The web based all-in-one Gradient editor with 100+ beautiful gradients. Find the perfect gradient for your next projects.
+- ### [🎨 Designers Lobby](https://www.designerslobby.com/)
+  Designers Lobby is a curated collection of more than 1200 design resources and tools with over 60 categories handpicked from the web to help build your next digital product lightning-fast, enabling you to be more creative and make an effective & well-organized workflow.
+- ### [🤖 Notion Style Illustrations](https://thedesignernitin.gumroad.com/l/thedesignernitin) 
+  150+ Minimal Notion Style illustrations.
+
 
 ##### WORKING ON
 
 - [🌈 Gradientify](https://www.gradientify.com/) - The web based all-in-one Gradient editor with 100+ beautiful gradients.
 
-#
-If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:thenitinsingh77@gmail.com).
+## My writings:
+
+I have my newsletter, where I share my journey of building and shipping a product from scratch. Join the community to get notified and keep up with what I'm building and launching.
+
+[Subscribe to my Newsletter](https://www.getrevue.co/profile/thenitinsingh7) 
+
+I also have a blog, where I document my journey of building and launching a product. Here is my recent blog.
+
+<!-- BLOG-POST-LIST:START -->
+- [Introducing Gradientify](https://thenitinsingh.hashnode.dev/gradientify)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+If you'd like to discuss any sort of opportunity, feel free to just send me a [DM on Twitter](https://twitter.com/thenitinsingh7)
+
+<p align='center'><a href="https://twitter.com/thenitinsingh7">@thenitinsingh7<a> / <a href="mailto:thenitinsingh77@gmail.com">thenitinsingh77@gmail.com<a></p>
 
 ## Explore my web presence 🌍
 

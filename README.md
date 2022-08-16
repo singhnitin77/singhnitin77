@@ -52,10 +52,5 @@ If you'd like to discuss any sort of opportunity, feel free to just send me a [D
 - [Twitter](https://twitter.com/thenitinsingh7)
 - [Codepen](https://codepen.io/singh_nitin16/)
 
-![](https://github-readme-stats.vercel.app/api?username=singhnitin77&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhnitin77&" alt="singhnitin77" /></p>
-
-
 
 

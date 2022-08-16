@@ -10,8 +10,15 @@ Full Stack Developer, UI/UX Designer & Illustrator who has build and shipped 3+ 
 
 - ### [🌈 Gradientify](https://www.gradientify.com/) #1 Product of the Day | Got featured in Product Hunt Weekly Newsletter also.
   The web based all-in-one Gradient editor with 100+ beautiful gradients. Find the perfect gradient for your next projects.
+
+  <a href="https://www.producthunt.com/products/gradientify?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-gradientify" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=355830&theme=light&period=daily" alt="Gradientify - Find&#0032;the&#0032;perfect&#0032;gradient&#0032;for&#0032;your&#0032;next&#0032;projects&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+  
 - ### [🎨 Designers Lobby](https://www.designerslobby.com/) #8 Product of the Day
   Designers Lobby is a curated collection of more than 1200 design resources and tools with over 60 categories handpicked from the web to help build your next digital product lightning-fast, enabling you to be more creative and make an effective & well-organized workflow.
+ 
+  <a href="https://www.producthunt.com/posts/designers-lobby?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-designers&#0045;lobby" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=351857&theme=light" alt="Designers&#0032;Lobby - All&#0032;your&#0032;design&#0032;resources&#0032;and&#0032;tools&#0032;in&#0032;one&#0032;place | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+  
 - ### [🤖 Notion Style Illustrations](https://thedesignernitin.gumroad.com/l/thedesignernitin) 
   150+ Minimal Notion Style illustrations.
 

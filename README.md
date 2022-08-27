@@ -37,6 +37,7 @@ I also have a blog, where I document my journey of building and launching a prod
 
 <!-- BLOG-POST-LIST:START -->
 - [Introducing Gradientify](https://thenitinsingh.hashnode.dev/gradientify)
+- [Product Hunt Launch - Gradientify](https://thenitinsingh.hashnode.dev/gradientify-product-hunt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
